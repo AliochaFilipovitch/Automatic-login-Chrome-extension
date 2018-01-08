@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Automatic-login-Chrome-extension
-Chrome extension able to connect you automatically to a secure website
-=======
 # Automatic login with a Chrome extension
 With this tutorial you can create a Chrome extension able to connect you automatically to a secure website.
 In our example, we will sign in automatically to [GitHub](https://github.com/).
@@ -11,4 +7,3 @@ Download the [source code](https://github.com) available in my repository [Autom
 Open Google Chrome. Go to chrome://extensions/(chrome://extensions/). Activate _developper mode_. Click on the button _Load unpackaged extension..._ and choose the _source code_ file that you modified at the first step. Your Chrome extension is ready to use. 
 ## 3-Enjoying
 Now you can go to [Sign in to GitHub](https://github.com/login) and see the result. This Chrome extension is available at least for Google Chrome Version 63. Handcoding with love by Aliocha Filipovitch. January 2018.
->>>>>>> 31d284448aeed915a82da7ca94d573d17eac553e
