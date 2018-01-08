@@ -6,4 +6,4 @@ Download the [source code](https://github.com) available in my repository [Autom
 ## 2-Installing
 Open Google Chrome. Go to chrome://extensions/(chrome://extensions/). Activate _developper mode_. Click on the button _Load unpackaged extension..._ and choose the _source code_ file that you modified at the first step. Your Chrome extension is ready to use. 
 ## 3-Enjoying
-Now you can go to [GitHub Sign Up](https://github.com/login) and see the result. This Chrome extension is available at least for Google Chrome Version 63. Handcoding with love by Aliocha Filipovitch. January 2018.
+Now you can go to [Sign in to GitHub](https://github.com/login) and see the result. This Chrome extension is available at least for Google Chrome Version 63. Handcoding with love by Aliocha Filipovitch. January 2018.
